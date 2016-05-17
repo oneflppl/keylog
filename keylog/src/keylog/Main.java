@@ -111,6 +111,8 @@ public class Main extends JFrame
         //become available to the key event listener.
         //typingArea.setFocusTraversalKeysEnabled(false);
         
+        
+        
         displayArea = new JTextArea();
         displayArea.setEditable(false);
         JScrollPane scrollPane = new JScrollPane(displayArea);
