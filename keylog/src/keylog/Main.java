@@ -134,6 +134,7 @@ public class Main extends JFrame
     /** Handle the key pressed event from the text field. */
     public void keyPressed(KeyEvent e) {
         displayInfo(e, "KEY PRESSED: ");
+        
     }
     
     /** Handle the key released event from the text field. */
